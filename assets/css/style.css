@@ -830,6 +830,22 @@ body[data-aos-duration="1000"] [data-aos] {
 
 
 /*--------------------------------------------------------------
+# Package Section
+--------------------------------------------------------------*/
+
+.card_circle {
+    background-color: #3487f7;
+    background-size: cover;
+    border-radius: 50%;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: relative;
+    width: 200px;
+}
+
+
+/*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 
