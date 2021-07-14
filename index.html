@@ -914,6 +914,21 @@
     <script src="assets/js/main.js"></script>
     <script src="https://kit.fontawesome.com/e51c5d0d71.js" crossorigin="anonymous"></script>
 
+    <script>
+        window.onscroll = function() {scrollFunction()};
+     
+    function scrollFunction() {
+      if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
+        
+        document.getElementById("header").style.background = "#ffff";
+       
+      } else {
+       
+        document.getElementById("header").style.background = "none";
+      }
+    }
+    </script>
+
 </body>
 
 </html>
