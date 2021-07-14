@@ -317,7 +317,7 @@ body[data-aos-duration="1000"] [data-aos] {
 --------------------------------------------------------------*/
 
 #header {
-    background: #fff;
+    /* background: #fff; */
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
@@ -413,7 +413,7 @@ body[data-aos-duration="1000"] [data-aos] {
     font-family: "Roboto", sans-serif;
     font-size: 13px;
     font-weight: 600;
-    color: #111;
+    /* color:#111; */
     white-space: nowrap;
     text-transform: uppercase;
     transition: 0.3s;
