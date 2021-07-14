@@ -776,6 +776,26 @@ body[data-aos-duration="1000"] [data-aos] {
     }
 }
 
+.external {
+    display: table;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.internal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
 
 /*--------------------------------------------------------------
 # Counts
@@ -2547,6 +2567,7 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
 
 /* #footer {
     color: #fff;
