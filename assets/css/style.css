@@ -339,7 +339,7 @@ body[data-aos-duration="1000"] [data-aos] {
 }
 
 #header .logo a span {
-    color: #1bbd36;
+    color: #ffffff;
 }
 
 #header .logo img {
@@ -413,7 +413,7 @@ body[data-aos-duration="1000"] [data-aos] {
     font-family: "Roboto", sans-serif;
     font-size: 13px;
     font-weight: 600;
-    /* color:#111; */
+    color:rgb(255, 255, 255); 
     white-space: nowrap;
     text-transform: uppercase;
     transition: 0.3s;
@@ -428,7 +428,7 @@ body[data-aos-duration="1000"] [data-aos] {
 .navbar a:hover,
 .navbar .active,
 .navbar li:hover>a {
-    color: #1bbd36;
+    color: #00ff15;
 }
 
 .navbar .dropdown ul {
