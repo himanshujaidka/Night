@@ -411,9 +411,9 @@ body[data-aos-duration="1000"] [data-aos] {
     justify-content: space-between;
     padding: 10px 0 10px 30px;
     font-family: "Roboto", sans-serif;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 600;
-    color:rgb(255, 255, 255); 
+    color: rgb(255, 255, 255);
     white-space: nowrap;
     text-transform: uppercase;
     transition: 0.3s;
@@ -428,7 +428,7 @@ body[data-aos-duration="1000"] [data-aos] {
 .navbar a:hover,
 .navbar .active,
 .navbar li:hover>a {
-    color: #00ff15;
+    color: #070bf7;
 }
 
 .navbar .dropdown ul {
