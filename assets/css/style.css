@@ -428,7 +428,7 @@ body[data-aos-duration="1000"] [data-aos] {
 .navbar a:hover,
 .navbar .active,
 .navbar li:hover>a {
-    color: #070bf7;
+    color: #f3f707a9;
 }
 
 .navbar .dropdown ul {
