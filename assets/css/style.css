@@ -503,7 +503,7 @@ body[data-aos-duration="1000"] [data-aos] {
 */
 
 .mobile-nav-toggle {
-    color: #111;
+    color: rgb(255, 254, 254);
     font-size: 28px;
     cursor: pointer;
     display: none;
