@@ -26,6 +26,16 @@
             }
         }
     }
+     /**
+   * Preloader
+   */
+  let preloader = select('#preloader');
+  if (preloader) {
+    window.addEventListener('load', () => {
+      preloader.remove()
+    });
+  }
+
 
     /**
      * Easy on scroll event listener 
